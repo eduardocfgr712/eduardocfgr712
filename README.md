@@ -3,7 +3,7 @@
 
 - 🔭 Estou trabalhando com **Análise e visualização de dados**
 
-- 🌱 estou atualizando **Power BI e AWS**
+- 🌱 Estou estudando **Power BI e AWS**
 
 - 📫 Pode me encontrar em **eduardocfgr@outlook.com**
 
